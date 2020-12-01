@@ -55,7 +55,7 @@ List of team member names and email IDs with their contributions.
 |-----------|-----|------------|
 |Member 1|hharshvardhanaanand@gmail.com|Backend Architecture|
 |Member 2|richaverma6561@gmail.com|Frontend Designing|
-|Member 3|jinenmodi810@gmail.com|frontend Designing|
+|Member 3|jinenmodi810@gmail.com|Frontend Designing|
 
 ### References
 Online tools used - StackOverflow, django.com, bootstrap.com, quora.com
