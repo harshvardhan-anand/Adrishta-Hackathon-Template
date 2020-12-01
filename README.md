@@ -19,7 +19,7 @@ Explain your solution to the problem in detail here.
 
 #### Architecture Diagram
 
-<img src="">
+<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/DataFlow.png">
 
 #### Technical Description
 
