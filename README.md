@@ -39,9 +39,9 @@ Affix the relevant screenshots of the developed project here.
 List of team member names and email IDs with their contributions.
 |Member Name|Email|Contribution|
 |-----------|-----|------------|
-|Member 1|mem1@example.com|Backend Architecture|
-|Member 2|mem2@example.com|Frontend Designing|
-|Member 3|mem3@example.com|frontend Designing|
+|Member 1|hharshvardhanaanand@gmail.com|Backend Architecture|
+|Member 2|richaverma6561@gmail.com|Frontend Designing|
+|Member 3|jinenmodi810@gmail.com|frontend Designing|
 
 ### References
 Affix links to the online tools/repositories/blogs etc., which helped you along the development of the project
