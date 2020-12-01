@@ -1,4 +1,4 @@
-## Team Number \<Your Team Number> - \<Your Project Name>
+## Team Number \27 - \IVOTE
 
 The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). *Clone the repo on your local system and build on top of that*
 
@@ -19,7 +19,7 @@ Explain your solution to the problem in detail here.
 
 #### Architecture Diagram
 
-Affix an image of the flow diagram/architecture diagram of the solution
+<img src="">
 
 #### Technical Description
 
