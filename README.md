@@ -24,11 +24,14 @@ Affix an image of the flow diagram/architecture diagram of the solution
 #### Technical Description
 
 An overview of:
-* What technologies/versions were used
+* Technologies Used - Django, JavaScript, HTML, CSS
 
-* Setup/Installations required to run the solution
+* Setup/Installations - 
+-- To install Django<br>
+1. Install Python
+2. pip install django
 
-* Instructions to run the submitted code
+* Instructions to run the submitted code - python manage.py runserver
 
 ### Screenshots
 Affix the relevant screenshots of the developed project here.
