@@ -33,7 +33,18 @@ An overview of:
 * Instructions to run the submitted code - python manage.py runserver
 
 ### Screenshots
-Affix the relevant screenshots of the developed project here.
+<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2010.28.09%20PM.jpeg">
+<img src='https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2010.28.21%20PM.jpeg'>
+<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2010.28.29%20PM.jpeg">
+<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.01.19%20PM.jpeg"
+<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.01.19%20PM.jpeg">
+<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.01.20%20PM.jpeg">
+<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.01.22%20PM%20(1).jpeg">
+<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.01.22%20PM.jpeg">
+<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.25.51%20PM.jpeg">
+<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.27.50%20PM.jpeg">
+<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.28.23%20PM.jpeg">
+<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.28.34%20PM.jpeg">
 
 ### Team Members
 List of team member names and email IDs with their contributions.
@@ -44,4 +55,4 @@ List of team member names and email IDs with their contributions.
 |Member 3|jinenmodi810@gmail.com|frontend Designing|
 
 ### References
-Affix links to the online tools/repositories/blogs etc., which helped you along the development of the project
+Online tools used - StackOverflow, django.com, bootstrap.com, quora.com
