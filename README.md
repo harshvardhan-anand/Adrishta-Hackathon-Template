@@ -4,7 +4,7 @@
 
 Problem: To implement an online Election Management System to conduct the college council elections ensuring the anonymity of the voter to the admin.
 
-Solution: A full-stack secure application (I-VOTED) for conduction of council election has been **implemented and deployed** and it can be accessed here: https://harshvardhanpy.pythonanywhere.com/
+Solution: A full-stack secure application (I-VOTED) for conduction of council election has been **implemented and deployed** and it can be accessed here: **https://harshvardhanpy.pythonanywhere.com/**
 
  - User Access = jinen@smit.smu.edu.in (psw - munnamunna)
  - Election Admin = admin@smit.smu.edu.in (psw - smitsmit) 
