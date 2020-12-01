@@ -10,6 +10,3 @@ class ElectionStatus(models.Model):
 
     class Meta:
         ordering = ('-election_start',)
-
-    def __str__(self):
-        return f'{str((self.election_start).year)}-{str((self.election_start).month)}'
