@@ -28,7 +28,7 @@ An overview of:
 2. pip install django
 
 * Instructions to run the submitted code - python manage.py runserver
-You can also view the EMS at: https://harshvardhanpy.pythonanywhere.com/
+<br>You can also view the EMS at: https://harshvardhanpy.pythonanywhere.com/
 
 ### Screenshots
 <img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2010.28.09%20PM.jpeg">
