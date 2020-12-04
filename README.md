@@ -37,6 +37,12 @@ An overview of:
 * Instructions to run the submitted code - python manage.py runserver
 <br>You can also view the EMS at: https://harshvardhanpy.pythonanywhere.com/
 
+### Flow Diagram
+The complete working of the app is represented in the following flow-chart
+<br>
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(25).png">
+<br><br>
+
 ### Screenshots and Usage Instructions
 Here you can see the complete flow of application and usage instructions
 
