@@ -20,7 +20,14 @@ The application is made in Python using the django framework. The application ar
 #### Technical Description
 
 An overview of:
-* Technologies Used - Django, JavaScript, HTML, CSS
+* Technologies Used - 
+ 1. Python 3.7 (Backend)
+ 2. Django 3.1 (Backend)
+ 3. SQLite (Database)
+ 3. JavaScript (FrontEnd)
+ 4. HTML (Frontend)
+ 5. CSS (Frontend)
+ 6. Bootstrap 4 (Frontend)
 
 * Setup/Installations - 
 -- To install Django<br>
@@ -31,18 +38,26 @@ An overview of:
 <br>You can also view the EMS at: https://harshvardhanpy.pythonanywhere.com/
 
 ### Screenshots
-<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2010.28.09%20PM.jpeg">
-<img src='https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2010.28.21%20PM.jpeg'>
-<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2010.28.29%20PM.jpeg">
-<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.01.19%20PM.jpeg"
-<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.01.19%20PM.jpeg">
-<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.01.20%20PM.jpeg">
-<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.01.22%20PM%20(1).jpeg">
-<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.01.22%20PM.jpeg">
-<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.25.51%20PM.jpeg">
-<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.27.50%20PM.jpeg">
-<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.28.23%20PM.jpeg">
-<img src="https://github.com/harshvardhan-anand/Adrishta-Hackathon-Template/blob/master/Application%20Code/resources/WhatsApp%20Image%202020-12-01%20at%2011.28.34%20PM.jpeg">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(1).png">
+<img src='https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(2).png'>
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(3).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(4).png"
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(5).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(6).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(7).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(8).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(9).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(11).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(12).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(13).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(15).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(16).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(17).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(18).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(19).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(20).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(21).png">
+
 
 ### Team Members
 List of team member names and email IDs with their contributions.
