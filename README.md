@@ -40,7 +40,7 @@ An overview of:
 ### Flow Diagram
 The complete working of the app is represented in the following flow-chart
 <br>
-<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(25).png">
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Flowchart.png">
 <br><br>
 
 ### Screenshots and Usage Instructions
