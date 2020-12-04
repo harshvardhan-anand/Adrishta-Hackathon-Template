@@ -63,6 +63,7 @@ The Election Admin will have the following rights:<br>
 <img src='https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(2).png'>
 <br><br>
 As the Election admin clicks on <b>"Start Election"</b>, An email will be sent to all the students containing a **SECURE ONE-TIME login id and password** which can be used only for that particular election. All voters as well as candidates can register themselves using that secure credentials.
+
 ##### Note: You may not be able to send the emails because the free version of the hosting doesn't provide the feature to set the SMTP server. However that can be bypassed by the superuser. The screenshots provided here are of "localhost". 
 <br>
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(3).png">
