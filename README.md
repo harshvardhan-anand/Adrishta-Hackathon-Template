@@ -37,25 +37,84 @@ An overview of:
 * Instructions to run the submitted code - python manage.py runserver
 <br>You can also view the EMS at: https://harshvardhanpy.pythonanywhere.com/
 
-### Screenshots
+#### Screenshots and Usage Instructions
+Here you can see the complete flow of application and usage instructions
+
+###HomePage
+This is the homepage of the application. As explained in the architecture we can access the application in three modes: 1) Admin 2)Voter (or Candidate) 3)SuperAdmin
+We can access the login page for admin and voter from the links given on the homepage. The superadmin can be accessed by ammending "/admin" at the end of the homepage url. Lets first see the admin view.
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(1).png">
+<br>
+###Admin View
+This is an intelligent login system which will automatically detect whether the user is an admin or a voter. Use the login id and password given above to access the admin dashboard.
+<img src='https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(22).png'>
+<br>
+The Election Admin will have the following rights:
+(1) Start Election
+(2) Start Polling
+(3) Stop Polling
+(4) Stop Election
 <img src='https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(2).png'>
+<br>
+As the Election admin clicks on <b>"Start Election"</b>, An email will be sent to all the students containing a SECURE ONE-TIME login id and password which can be used only for that particular election. All voters as well as candidates can register themselves using that secure credentials.
+##Note: You may not be able to send the emails because the free version of the hosting doesn't provide the feature to set the SMTP server. However that can be bypassed by the superuser. 
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(3).png">
+<br>
+Once the email is sent to all the students, the <b>"Start Polling"</b> button will be activated. Generally a duration of 48 hrs (or as decided by authorities) will be given for candidates and voter to register themselves. Clicking on this button to start the polling process. 
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(4).png"
+<br>
+
+###Candidate View
+The candidate view can be accessed only when the poll has not yet started. To access the candidate view you need to click on "Vote/Register" button on the homepage and enter your ONE-TIME SECURE credentials before the polling begins. 
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(5).png">
+On successful login, you should see this screen.
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(23).png">
+<br>
+Click on register and you will be taken to the candidate registration page. You can register for the election from here.
+<img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(24).png">
+<br>
+
+
+###Voter View
+You can access the voter view when the polling has started.
+On the homepage, if you click on the "Vote/Register" button, you will be directed to the smart login system where you can use your ONE-TIME SECURE credentials received through email to login.
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(6).png">
+<br>
+You will be directed to the Election Portal where you can cast your vote.
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(7).png">
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(8).png">
+<br>
+Once you cast your vote, you will be logged out and your credentials will expire so that you do not have any access to the application. This makes the application absolutely secure as there is no way one can gain access to the voting portal.
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(9).png">
+<br>
+After the allocated time for polling is over, the Election admin can click the stop polling button (from admin dashboard). This will redirect to the results page.
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(11).png">
+If the Election Admin clicks on the "Stop Election" button, the election will be stopped and all the variables will be reset. The election can only be stopped once the results have been declared.
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(12).png">
+
+
+
+###Super Admin View
+Super Admin dashboard can be accessed at **https://harshvardhanpy.pythonanywhere.com/admin**
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(13).png">
+<br>
+Super Admin possess special priviledges and can access the profiles of voters, candidates and admins and can modify the election status 
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(15).png">
+<br>
+List of all Candidates
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(16).png">
+<br>
+Form to change the candidate
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(17).png">
+<br>
+Form to change the access level of users
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(18).png">
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(19).png">
+<br>
+Form to change the election status
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(20).png">
+<br>
+Form to change the voter profile
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(21).png">
 
 
