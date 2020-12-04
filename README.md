@@ -42,22 +42,23 @@ Here you can see the complete flow of application and usage instructions
 
 #### HomePage
 This is the homepage of the application. As explained in the architecture we can access the application in three modes:<br>
-* 1) Admin 
-* 2)Voter (or Candidate) 
-* 3)SuperAdmin
+* Admin 
+* Voter (or Candidate) 
+* SuperAdmin
 We can access the login page for admin and voter from the links given on the homepage. The superadmin can be accessed by ammending "/admin" at the end of the homepage url. Lets first see the admin view.
 <img src="https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(1).png">
 <br><br>
+
 #### Admin View
 This is an intelligent login system which will automatically detect whether the user is an admin or a voter. Use the login id and password given above to access the admin dashboard.
 <br>
 <img src='https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(22).png'>
 <br><br>
 The Election Admin will have the following rights:<br>
-* (1) Start Election
-* (2) Start Polling
-* (3) Stop Polling
-* (4) Stop Election
+* Start Election
+* Start Polling
+* Stop Polling
+* Stop Election
 <br>
 <img src='https://github.com/harshvardhan-anand/EMS/blob/master/IVote/Screenshots/Screenshot%20(2).png'>
 <br><br>
